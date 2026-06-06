@@ -3,7 +3,7 @@ version: 0.2.2
 stage: experimental
 slug: homebridge
 description: Lightweight HomeKit API implementation with plugin support
-url: https://github.com/isteve-o/hassio-addons/tree/main/homebridge
+url: https://github.com/marcotwin34/hassio-addons
 arch:
   - armv7
   - aarch64
@@ -19,4 +19,3 @@ ingress: true
 map:
   - addon_config:rw
   - homeassistant_config:rw
-image: isteveo/{arch}-addon-homebridge
