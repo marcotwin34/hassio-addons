@@ -1,13 +1,15 @@
-# iSteve-O's Home Assistant Add-Ons
+# Marc Home Assistant Add-Ons
 
 This is a personal repository for [Home Assistant](https://www.home-assistant.io) add-ons.
+It's for testing how I can modify the forked git : 
+https://github.com/iSteve-O/hassio-addons
 
 ## Installation
 
 * Go to the Supervisor panel in Home Assistant
 * Go to the "Add-on Store" tab
 * Click the "three dots" icon in the top right corner and choose "Repositories"
-* Paste `https://github.com/isteve-o/hassio-addons` in the "Add" text field and click "Add", then "Close"
+* Paste `https://github.com/marcotwin34/hassio-addons` in the "Add" text field and click "Add", then "Close"
 
 ## Add-ons
 
