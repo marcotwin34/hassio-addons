@@ -20,7 +20,7 @@ RUN chmod 744 /ha_lsio.sh && if grep -qr "lsio" /etc; then /ha_lsio.sh "$CONFIGL
 # Changes config directory
 ENV \
     HOME="/config/addons_config"
-    DATA_HOME="/config/addons_config"
+    DATA="/config/addons_config"
 
 # add bashio
 ADD https://github.com/hassio-addons/bashio/archive/refs/tags/v0.16.3.tar.gz /tmp/bashio.tar.gz
